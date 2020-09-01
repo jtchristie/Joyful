@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Welcome to Joyful Living Reiki
 image: /img/tree.jpg
-heading: The history of Reiki
+heading: How it can help you
 subheading: Take a deep breath
 mainpitch:
   title: What is Reiki?
