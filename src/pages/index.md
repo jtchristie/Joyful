@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Welcome to Joyful Living Reiki 
+title: Welcome to Joyful Living Reiki
 image: /img/tree.jpg
 heading: The history of Reiki
 subheading: Take a deep breath
@@ -8,22 +8,29 @@ mainpitch:
   title: What is Reiki?
   description: Reiki is a scientifically proven way to lower stress, relieve pain,
     anxiety, and improve your health.
-description: Take the first step towards inner peace and mindfulness with Joyful Living Reiki. Reiki is a subtle yet powerful energy healing technique. It works by relieving stress, balancing your body's energy, and awakening your own ability to heal on all levels. It can be provided with a light touch, from across the room or from another part of the world. 
+description: Take the first step towards inner peace and mindfulness with Joyful
+  Living Reiki. Reiki is a subtle yet powerful energy healing technique. It
+  works by relieving stress, balancing your body's energy, and awakening your
+  own ability to heal on all levels. It can be provided with a light touch, from
+  across the room or from another part of the world.
 intro:
   blurbs:
     - image: /img/bermuda-come-back-later-1.png
-      text: >
-       Rid yourself of stress and negative energy. 
-        
+      text: |
+        Rid yourself of stress and negative energy. 
     - image: /img/bermuda-268.png
       text: >
-        Take a break from the digital clutter in your life. Joyful Living Reiki offers both classes and sessions
-    - image: /img/bermuda-searching.png
+        Take a break from the digital clutter in your life. Joyful Living Reiki
+        offers both classes and sessions
+    - image: /img/bermuda-475.png
       text: >
-        In classes you will learn the art of transfering reiki energy. This will allow you to reach out to others and share positive energy.
-    - image: /img/bermuda-743.png
+        In classes you will learn the art of transfering reiki energy. This will
+        allow you to reach out to others and share positive energy.
+    - image: /img/bermuda-704.png
       text: >
-        In sessions you will get to experience the healing properties of reiki. Reiki's power, yet gentle healing energy will relieve stress, provide deep relaxation an dawaken your body's own ability to heal.
+        In sessions you will get to experience the healing properties of reiki.
+        Reiki's power, yet gentle healing energy will relieve stress, provide
+        deep relaxation an dawaken your body's own ability to heal.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
