@@ -44,6 +44,13 @@ export const ProductPageTemplate = ({
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
+        <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                      Book online now
+                    </Link>
+                  </div>
+                </div>
           <div className="columns">
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>

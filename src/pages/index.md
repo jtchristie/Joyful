@@ -17,13 +17,13 @@ intro:
         
     - image: /img/bermuda-268.png
       text: >
-        Take a break from the digital clutter in your life
+        Take a break from the digital clutter in your life. Joyful Living Reiki offers both classes and sessions
     - image: /img/bermuda-searching.png
       text: >
-        Try something new.
+        In classes you will learn the art of transfering reiki energy
     - image: /img/bermuda-743.png
       text: >
-        Relax, it's not that hard.
+        In sessions you will get to experience the healing properties of reiki
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -93,7 +93,14 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      Classes and sessions
+                    </Link>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                      Book online now
                     </Link>
                   </div>
                 </div>
