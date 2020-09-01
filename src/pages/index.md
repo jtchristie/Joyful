@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Take a deep breath
+title: Welcome to Joyful Living Reiki 
 image: /img/tree.jpg
 heading: The history of Reiki
-subheading: Welcome to Joyful Living Reiki
+subheading: Take a deep breath
 mainpitch:
   title: What is Reiki?
   description: Reiki is a scientifically proven way to lower stress, relieve pain,
