@@ -15,7 +15,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/img_1025.jpg
+    - image: /img/IMG_1025.jpg
       heading: test
       text: >
         We offer a small, but carefully curated selection of brewing gear and
