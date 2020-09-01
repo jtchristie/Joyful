@@ -99,9 +99,9 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                  <a target="_blank" className="btn" href="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
                       Book online now
-                    </Link>
+                    </a>
                   </div>
                 </div>
                 <div className="column is-12">
