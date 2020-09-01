@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Welcome to Joyful Living Reiki 
-image: /img/home-jumbotron.jpg
+title: Take a deep breath
+image: /img/tree.jpg
 heading: The history of Reiki
-subheading: Take a deep breath
+subheading: Welcome to Joyful Living Reiki
 mainpitch:
   title: What is Reiki?
   description: Reiki is a scientifically proven way to lower stress, relieve pain,
@@ -34,7 +34,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/bermuda-475.png
+    - image: /img/bermuda-743.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
