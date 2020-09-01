@@ -7,7 +7,7 @@ image: /img/productbanner.jpg
 description: Experience the power of Reiki online or in person
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/img_1178.jpg
       heading: test
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -15,14 +15,14 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/img_1025.jpg
       heading: test
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/img_1012.jpg
       heading: test
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -30,7 +30,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/img_1180.jpg
       heading: test
       text: >
         We believe that good coffee has the power to bring people together.
