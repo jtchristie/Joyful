@@ -13,17 +13,17 @@ intro:
   blurbs:
     - image: /img/bermuda-come-back-later-1.png
       text: >
-       Rid yourself of stress and negative energy
+       Rid yourself of stress and negative energy. 
         
     - image: /img/bermuda-268.png
       text: >
         Take a break from the digital clutter in your life. Joyful Living Reiki offers both classes and sessions
     - image: /img/bermuda-searching.png
       text: >
-        In classes you will learn the art of transfering reiki energy
+        In classes you will learn the art of transfering reiki energy. This will allow you to reach out to others and share positive energy.
     - image: /img/bermuda-743.png
       text: >
-        In sessions you will get to experience the healing properties of reiki
+        In sessions you will get to experience the healing properties of reiki. Reiki's power, yet gentle healing energy will relieve stress, provide deep relaxation an dawaken your body's own ability to heal.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
