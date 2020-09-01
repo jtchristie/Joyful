@@ -57,6 +57,8 @@ export const IndexPageTemplate = ({
             color: 'white',
             boxShadow: 'rgb(78, 115, 185) 0.5rem 0px 0px, rgb(78, 115, 185) -0.5rem 0px 0px',
             backgroundColor: 'rgb(78, 115, 185)',
+            opacity: '0.9',
+            borderRadius: '30px',
             lineHeight: '1',
             padding: '0.25em',
           }}

@@ -17,7 +17,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <Link className="btn" to="/https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                      Book a session
+                    </Link>
             </div>
+
           </div>
         </div>
       </div>
