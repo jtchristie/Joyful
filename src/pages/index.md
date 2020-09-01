@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Take a deep breath
-image: /img/home-jumbotron.jpg
+image: /img/tree.jpg
 heading: The history of Reiki
 subheading: Welcome to Joyful Living Reiki
 mainpitch:
