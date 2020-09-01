@@ -16,3 +16,4 @@ Multiple studies have proven the very real positive affects of Reiki. For exampl
 A 2016 study shows that women who had reiki showed improvements in their sleep patterns, self-confidence and depression levels. Patients noted a sense of calm, inner peace, and relaxation.
 
 ### What are you waiting for? book an appointment
+I also invite you to schedule a free telephone consultation so you can ask me any questions that you have about Reiki.
