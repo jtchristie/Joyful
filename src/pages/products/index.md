@@ -107,7 +107,7 @@ pricing:
       items:
         - "'"
     - plan: 90 minute Intense Healing session
-      price: Price Varies
+      price: "150"
       description: "'"
       items:
         - "'"
