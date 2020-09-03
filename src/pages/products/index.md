@@ -15,7 +15,7 @@ intro:
         unconditional love.
 
         REIKI PACKAGES are offered to provide you an affordable option to experience the cumulative, long-term benefits of Reiki. When experienced in a series, Reiki treatments are even more effective in promoting healing from the effects of stress, trauma, illness, surgery or chemotherapy.
-    - image: /img/IMG_1012.jpg
+    - image: /img/IMG_1025.jpg
       text: >-
         HOLY FIRE® REIKI is a powerful, yet gentle healing energy that relieves
         stress, provides deep relaxation, and awakens your body's own ability to
