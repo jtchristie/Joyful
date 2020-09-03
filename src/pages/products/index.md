@@ -84,8 +84,8 @@ pricing:
     - plan: 60 minute Reiki Session
       price: "120"
 
-    - plan: 90 minute Intense Healing session
-      price: Price Varies
+    - plan: 90 minute Intense Healing
+      price: "150"
 foot:
   additional: That's not all. Joyful Living Reiki offers many more options. Check them out below
 ---

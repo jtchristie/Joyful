@@ -73,6 +73,13 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="content">
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                  <a target="_blank" className="btn" href="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                      Book online now
+                    </a>
+                  </div>
+                </div>
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>

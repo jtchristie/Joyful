@@ -110,6 +110,7 @@ export const ProductPageTemplate = ({
               <Pricing data={pricing.plans} />
               
               <h1 className="is-size-5">{foot.additional}</h1>
+              <br></br>
               <div className="columns">
                   <div className="column is-12 has-text-centered">
                   <a target="_blank" className="btn" href="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
