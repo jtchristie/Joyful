@@ -8,49 +8,48 @@ description: Experience the power of Reiki online or in person
 intro:
   blurbs:
     - image: /img/img_1178.jpg
-      heading: test
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/IMG_1025.jpg
-      heading: test
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: 
+       HOLY FIRE® REIKI is a powerful, yet gentle healing energy that relieves stress, provides deep relaxation, and awakens your body's own ability to heal. It has a particularly high vibration and carries the energy of unconditional love. 
+
+        REIKI PACKAGES are offered to provide you an affordable option to experience the cumulative, long-term benefits of Reiki. When experienced in a series, Reiki treatments are even more effective in promoting healing from the effects of stress, trauma, illness, surgery or chemotherapy. 
+
+    - image: /img/img_1178.jpg
+      text: 
+       HOLY FIRE® REIKI is a powerful, yet gentle healing energy that relieves stress, provides deep relaxation, and awakens your body's own ability to heal. It has a particularly high vibration and carries the energy of unconditional love. 
+
+        REIKI PACKAGES are offered to provide you an affordable option to experience the cumulative, long-term benefits of Reiki. When experienced in a series, Reiki treatments are even more effective in promoting healing from the effects of stress, trauma, illness, surgery or chemotherapy. 
     - image: /img/img_1012.jpg
-      heading: test
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        This session consists of a Reiki treatment, including an initial (in-person or virtual) consultation to establish your goals for the session, application of Reiki energy and a brief review of your experience. Chakra clearing and balancing is always included. Be prepared to relax and restore.
+
+        Single 60-min Reiki session  –  $120    $100 until August 31
+   
+         Package of 3 Reiki sessions  –  $285    (save $75 off 3 regular sessions)
+         Package of 5 Reiki sessions  -  $450    (save $150 off 5 regular sessions) 
+         To pay in advance PayPal or credit card (click here)  
     - image: /img/img_1180.jpg
-      heading: test
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        REIKI and ESSENTIAL OILS session - 90 minutes In-person or Virtual  
+ 
+        This special session starts with an introduction to the healing benefits of essential oils. This is followed by a complete Reiki session, and includes a FREE bottle of oil (from a special selection of dōTERRA oils) to take with you. Whether your goal is relaxation, pain relief, improved sleep, or increased joy... there's an oil for that.
+
+          Single 90-min Essential Oils session – $150   25% off - Gift Certificate Special $112 - until August 31
+        To pay in advance PayPal or credit card (click here)  
+
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: 
+      REIKI INTENSE HEALING session - 90 minutes In-person or Virtual   
+      A Holy Fire healing meditation brings in high frequency healing energies more powerful and focused than those of a regular session. Followed by a complete Reiki session, this combination is highly effective in healing a specific issue, releasing negative energies or empowering a goal. This session consists of a 30-minute healing meditation plus a full Reiki treatment and chakra balancing. 
+
+      Single 90-min Intense Healing session – $150   
+      To pay in advance PayPal or credit card (click here)   
 main:
   heading: Classes
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: 
+     Reiki is a gift of life force energy given to us to renew and heal ourselves and others. The Holy Fire III Reiki placement (similar to an attunement) sensitizes you to the frequency of Reiki energy by opening your energy field, clearing blocked energy, and allowing you to become a clear channel for Reiki healing.
+
+      The following classes all include Holy Fire Reiki energies. Reiki energy is constantly evolving and Holy Fire III is one of the most recent forms. It is both powerful and gentle. It is noticeably refined and provides          purification, healing, and guidance. It carries a very high vibration, which improves your connection to universal energy and unconditional love.  
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/plant.jpg
@@ -74,36 +73,21 @@ testimonials:
       I was in a much more positive frame of mind afterward. I highly recommend
       a series of sessions with Gail as part of regular self-care."'
 full_image: /img/flowerpink.jpg
+
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Pricing
+  description: Reiki is a gentle healing technique that relieves stress and awakens your body's own ability to heal. The session consists of a brief consultation and then application of healing energy on or just above the body. As Reiki raises and balances the natural flow of energy, physical symptoms and emotional distress clear naturally.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
-    - plan: Distance
-      price: "1"
-      description: test
-      items:
-        - "2"
+    - plan: 30 Minute Children's Session
+      price: "60"
+
+    - plan: 60 minute Reiki Session
+      price: "120"
+
+    - plan: 90 minute Intense Healing session
+      price: Price Varies
+foot:
+  additional: That's not all. Joyful Living Reiki offers many more options. Check them out below
 ---
+
+

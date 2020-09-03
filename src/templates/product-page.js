@@ -5,7 +5,9 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
+import Foot from '../components/Foot'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Footer from '../components/Footer'
 
 export const ProductPageTemplate = ({
   image,
@@ -17,6 +19,7 @@ export const ProductPageTemplate = ({
   testimonials,
   fullImage,
   pricing,
+  foot
 }) => (
   <div className="content">
     <div
@@ -105,8 +108,15 @@ export const ProductPageTemplate = ({
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
-              <Pricing data={pricing.plans} />
-
+              
+              <h1 className="is-size-5">{foot.additional}</h1>
+              <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                  <a target="_blank" className="btn" href="https://square.site/book/71J4YHGCTXSB4/joyful-living-reiki-stamford-ct">
+                      Book online now
+                    </a>
+                  </div>
+                </div>
             </div>
           </div>
         </div>
@@ -137,6 +147,9 @@ ProductPageTemplate.propTypes = {
     description: PropTypes.string,
     plans: PropTypes.array,
   }),
+  foot: PropTypes.shape({
+    additional: PropTypes.string
+  })
 }
 
 const ProductPage = ({ data }) => {
@@ -154,6 +167,7 @@ const ProductPage = ({ data }) => {
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
+        foot={frontmatter.foot}
       />
     </Layout>
   )
@@ -192,7 +206,6 @@ export const productPageQuery = graphql`
                 }
               }
             }
-            heading
             text
           }
         }
@@ -245,11 +258,12 @@ export const productPageQuery = graphql`
           heading
           description
           plans {
-            description
-            items
             plan
             price
-          }
+          } 
+        }
+        foot{
+          additional
         }
       }
     }
