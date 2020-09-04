@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import FadeIn from 'react-fade-in'
 
 export const IndexPageTemplate = ({
   image,
@@ -24,6 +25,7 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        height: '75vh'
       }}
     >
       <div
@@ -51,19 +53,27 @@ export const IndexPageTemplate = ({
         >
           {title}
         </h1>
-        <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            display: 'inlineBlock',
-            color: 'white',
-            opacity: '0.9',
-            borderRadius: '30px',
-            lineHeight: '1',
-            padding: '0.25em',
-          }}
-        >
-          {subheading}
-        </h3>
+        <FadeIn delay="400" transitionDuration="1800">
+        <div>
+          <h3
+            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+            style={{
+              display: 'inlineBlock',
+              color: 'white',
+              borderRadius: '30px',
+              lineHeight: '1',
+              padding: '0.25em',
+              opacity: '0',
+              transition: 'opacity 2s',
+              opacity: '1'
+
+            }}
+          >
+            {subheading}
+          </h3>
+      </div>
+      </FadeIn>
+
       </div>
     </div>
     <section className="section section--gradient">
