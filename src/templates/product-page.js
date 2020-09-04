@@ -108,8 +108,9 @@ export const ProductPageTemplate = ({
               </h2>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
-              
-              <h1 className="is-size-5">{foot.additional}</h1>
+              <div className="columns">
+                 <h1 className="is-size-5 has-text-centered">{foot.additional}</h1>
+              </div>
               <br></br>
               <div className="columns">
                   <div className="column is-12 has-text-centered">
@@ -117,7 +118,7 @@ export const ProductPageTemplate = ({
                       Book online now
                     </a>
                   </div>
-                </div>
+               </div>
             </div>
           </div>
         </div>
