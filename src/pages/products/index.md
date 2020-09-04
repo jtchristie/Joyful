@@ -104,10 +104,10 @@ pricing:
       price: "120"
 
     - plan: 90 Minute Intense Healing
-      price: "120"
+      price: "150"
 
     - plan: 90 Minute Reiki & Essential Oils
-      price: "150"
+      price: "130"
       
 foot:
   additional: That's not all. Joyful Living Reiki offers many more options. Check
