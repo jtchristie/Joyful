@@ -3,7 +3,7 @@ templateKey: 'about-page'
 path: /about
 title: About Joyful Living Reiki
 ---
-### Who I am
+### About me
 Nice to meet you! I am Gail Christie. I am a Holy Fire II Usui and Rauna Reiki Master Teacher and owner of Joyful living Reiki. I am a commited to love, health and joy.
 
 ### Qualifications
@@ -17,3 +17,8 @@ A 2016 study shows that women who had reiki showed improvements in their sleep p
 
 ### What are you waiting for? book an appointment
 I also invite you to schedule a free telephone consultation so you can ask me any questions that you have about Reiki.
+
+### Read more about Reiki
+
+[Healthline article about Reiki](https://www.healthline.com/health/reiki#TOC_TITLE_HDR_9)
+
