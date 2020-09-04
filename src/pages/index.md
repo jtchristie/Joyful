@@ -15,7 +15,7 @@ description: Take the first step towards inner peace and mindfulness with Joyful
   across the room or from another part of the world.
 intro:
   blurbs:
-    - image: /img/bermuda-come-back-later-1.png
+    - image: /img/flower5.jpg
       text: |
         Rid yourself of stress and negative energy. 
     - image: /img/bermuda-268.png
