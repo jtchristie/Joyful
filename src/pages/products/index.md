@@ -98,27 +98,17 @@ pricing:
   plans:
     - plan: 30 Minute Children's Session
       price: "60"
-<<<<<<< HEAD
+
 
     - plan: 60 Minute Reiki Session
       price: "120"
 
     - plan: 90 Minute Intense Healing
-=======
-      description: "'"
-      items:
-        - "'"
-    - plan: 60 minute Reiki Session
       price: "120"
-      description: "'"
-      items:
-        - "'"
+
     - plan: 90 minute Intense Healing
->>>>>>> 1fdb80b85070480e01b84a359e0d0dfc8a7b1bad
       price: "150"
-      description: "'"
-      items:
-        - "'"
+      
 foot:
   additional: That's not all. Joyful Living Reiki offers many more options. Check
     them out below
