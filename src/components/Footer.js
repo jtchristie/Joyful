@@ -54,6 +54,9 @@ const Footer = class extends React.Component {
                         Admin
                       </a>
                     </li>
+                    <li>
+                       <a target="_blank" href="https://icons8.com/icons/set/flower">Flower icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+                    </li>
                   </ul>
                 </section>
               </div>
