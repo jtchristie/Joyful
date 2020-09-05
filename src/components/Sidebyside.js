@@ -7,7 +7,10 @@ const FeatureGrid = ({ gridItems }) => (
     {gridItems.map((item) => (
       <div key={item.text} className="tile is-ancestor">
             <div className='tile is-6 vertical is-parent' >
-              <div class="tile is-child box">
+              <div class="tile is-child box" style={{
+                  height: '170px',
+                  display: 'inline-block'
+              }}>
                 <PreviewCompatibleImage  imageInfo={item} />
               </div>
             </div>
