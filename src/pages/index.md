@@ -16,25 +16,26 @@ description: Take the first step towards inner peace and mindfulness with Joyful
 intro:
   blurbs:
     - image: /img/flower5.jpg
-      heading: test
+      heading: Sessions
       text: |
-        Rid yourself of stress and negative energy. 
+        An in-person Reiki session will take place in a peaceful, private space with soft lighting and soothing music. You sit or lie down while Reiki energy is applied in-person or at a distance to your body. There is no pressure or massaging, making it ideal for treating all ages and conditions. A typical session lasts 60 to 90 minutes.
+
     - image: /img/IMG_1180.JPG
-      heading: test
+      heading: Classes
       text: >
-        Take a break from the digital clutter in your life. Joyful Living Reiki
-        offers both classes and sessions
+        Reiki is a gift of life force energy given to us to renew and heal ourselves and others. The Holy Fire III Reiki placement (similar to an attunement) sensitizes you to the frequency of Reiki energy by opening your energy field, clearing blocked energy, and allowing you to become a clear channel for Reiki healing.
+
+        The following classes all include Holy Fire Reiki energies. Reiki energy is constantly evolving and Holy Fire III is one of the most recent forms. It is both powerful and gentle. It is noticeably refined and provides purification, healing, and guidance. It carries a very high vibration, which improves your connection to universal energy and unconditional love.  
+
+
     - image: /img/IMG_1012.jpg
-      heading: test
+      heading: Learn More
       text: >
-        In classes you will learn the art of transfering reiki energy. This will
-        allow you to reach out to others and share positive energy.
-    - image: /img/IMG_1178.JPG
-      heading: test
-      text: >
-        In sessions you will get to experience the healing properties of reiki.
-        Reiki's power, yet gentle healing energy will relieve stress, provide
-        deep relaxation an dawaken your body's own ability to heal.
+        Reiki has a rich history, originating in Japan in 1865. The name Reiki comes from two Japanese words, "Rei" meaning Higher Consciousness, and "Ki" life force energy. When this spiritually guided life force energy restores the subtle, natural flow of energy, your physical symptoms and emotional distress clear naturally. Reiki helps balance and harmonize your body, mind and spirit.
+
+        Learn More below
+        [History of Reiki](http://joyfullivingreiki.com/tp70/page.asp?ID=342889)
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
