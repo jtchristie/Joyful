@@ -42,8 +42,6 @@ intro:
         restores the subtle, natural flow of energy, your physical symptoms and
         emotional distress clear naturally. Reiki helps balance and harmonize
         your body, mind and spirit.
-
-        Learn More below [History of Reiki](http://joyfullivingreiki.com/tp70/page.asp?ID=342889)
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
