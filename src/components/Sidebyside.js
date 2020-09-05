@@ -12,20 +12,16 @@ const FeatureGrid = ({ gridItems }) => (
       }}key={item.text} className="image" style={{
           
       }}>
-          <div className="has-text-centered">
             <div class='image'
               style={{
                 width: '300px',
-                height: '300px',
+                height: '400px',
                 paddingRight: '10vw',
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'center'
+                margin: '0'
               }}
             >
               <PreviewCompatibleImage imageInfo={item} />
             </div>
-          </div>
           <p class='text' style={{
                 display: 'flex',
                 flexDirection: 'column',
