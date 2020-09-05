@@ -18,15 +18,15 @@ intro:
     - image: /img/flower5.jpg
       text: |
         Rid yourself of stress and negative energy. 
-    - image: /img/bermuda-268.png
+    - image: /img/IMG_1180.JPG
       text: >
         Take a break from the digital clutter in your life. Joyful Living Reiki
         offers both classes and sessions
-    - image: /img/bermuda-475.png
+    - image: /img/IMG_1012.jpg
       text: >
         In classes you will learn the art of transfering reiki energy. This will
         allow you to reach out to others and share positive energy.
-    - image: /img/bermuda-704.png
+    - image: /img/IMG_1178.JPG
       text: >
         In sessions you will get to experience the healing properties of reiki.
         Reiki's power, yet gentle healing energy will relieve stress, provide
