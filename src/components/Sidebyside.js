@@ -8,7 +8,6 @@ const FeatureGrid = ({ gridItems }) => (
       <div style={{
           display: 'flex',
           flexDirection: 'row',
-          padding: '100px'
       }}key={item.text} className="image" style={{
           
       }}>
@@ -22,11 +21,16 @@ const FeatureGrid = ({ gridItems }) => (
             >
               <PreviewCompatibleImage imageInfo={item} />
             </div>
-          <p class='text' style={{
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'center'
-          }}>{item.text}</p>
+          <div style={{
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'center'
+          }}>
+              <h2 style={{fontWeight: 'bold'}}>{item.heading}</h2>
+              <p class='text'>{item.text}</p>
+          </div>
+          <br/>
+          <br/>
       </div>
     ))}
   </div>
@@ -36,6 +40,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      heading: PropTypes.string,
       text: PropTypes.string,
     })
   ),
