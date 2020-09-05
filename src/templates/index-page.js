@@ -106,7 +106,13 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
+                <br/>
+                <br/>
+                <br/>
                 <Sidebyside gridItems={intro.blurbs} />
+                <br/>
+                <br/>
+                <br/>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
