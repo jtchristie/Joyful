@@ -12,7 +12,7 @@ const FeatureGrid = ({ gridItems }) => (
               </div>
             </div>
           <div className="tile is-parent vertical">
-            <div className='tile is-child box'>
+            <div className='tile is-child'>
               <h2 style={{fontWeight: 'bold'}}>{item.heading}</h2>
             </div>
             <div className='tile is-child box'>
