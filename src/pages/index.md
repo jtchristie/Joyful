@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to Joyful Living Reiki
-image: /img/tree.jpg
+image: /img/goldlower.jpg
 heading: How it can help you
 subheading: Take a deep breath
 mainpitch:
