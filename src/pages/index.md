@@ -6,7 +6,7 @@ heading: How it can help you
 subheading: Take a deep breath
 mainpitch:
   title: What is Reiki?
-  description: Reiki is a scientifically proven way to lower stress, relieve pain,
+  description: Reiki is a proven way to lower stress, relieve pain,
     anxiety, and improve your health.
 description: Take the first step towards inner peace and mindfulness with Joyful
   Living Reiki. Reiki is a subtle yet powerful energy healing technique. It
